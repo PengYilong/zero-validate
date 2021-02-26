@@ -1,0 +1,12 @@
+# composer
+composer.phar
+/vendor/
+
+# windows
+Thumbs.db
+
+# OSx
+.DS_Store
+
+# php-cs-fixer
+.php_cs.cache

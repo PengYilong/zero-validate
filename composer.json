@@ -1,0 +1,22 @@
+{
+    "name": "zero-systems/zero-validate",
+    "type": "php",
+    "description": "php validate",
+    "minimum-stability": "dev",
+    "keywords": ["php","validate"],
+    "authors": [
+        {
+            "name": "John Peng",
+            "email": "948800401@qq.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "zero\\": "src"
+        }
+    }
+}
